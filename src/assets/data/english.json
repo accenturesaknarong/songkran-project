@@ -1,0 +1,156 @@
+{
+	"button": {
+		"b1": "Close",
+		"b2": "Back"
+	},
+	"home": {
+		"m1": {
+			"h1": "Songkran Celebration!",
+			"d1": "Enjoy the festivities without getting soaked"
+		},
+		"button": {
+			"b1": "Let's Play"
+		}
+	},
+	"language": {
+		"m1": {
+			"h1": "Select your language",
+			"d1": "Thai",
+			"d2": "English"
+		},
+		"button": {
+			"close": "Close"
+		}
+	},
+	"menu": {
+		"m1": {
+			"h1": "Send your best wishes",
+			"d1": "Take a break from splashing water and sprinkle your loved ones with best wishes instead."
+		},
+		"m2": {
+			"h1": "Build your pagoda",
+			"d1": "We usually do this at the temple to make merits, but as long as your intention is genuine, you’re golden."
+		},
+		"button": {
+			"back": "Back",
+			"close": "Close"
+		}
+	},
+	"avatar": {
+		"m1": {
+			"h1": "Create your avatar",
+			"d1": "Skin",
+			"d2": "Hair"
+		},
+		"placeholder": {
+			"h1": "Enter your name..."
+		},
+		"button": {
+			"next": "Next"
+		}
+	},
+	"question": {
+		"location": {
+			"title": "Where would you like to celebrate Songkran?",
+			"a1": {
+				"h1": "In the City",
+				"d1": "Enjoy a jam-packed water festival at Khaosan or Silom."
+			},
+			"a2": {
+				"h1": "Cultural Attractions",
+				"d1": "Get blessed at temples or visit cultural attractions."
+			},
+			"a3": {
+				"h1": "Beach",
+				"d1": "Kick your feet up, relax, and get a suntan."
+			},
+			"a4": {
+				"h1": "Outer Space",
+				"d1": "No gravity, just you and me, only serenity."
+			}
+		},
+		"person": {
+			"title": "Whom do you want to celebrate Songkran with?",
+			"a1": {
+				"h1": "Friends",
+				"d1": "Gonna be hella fun."
+			},
+			"a2": {
+				"h1": "Family",
+				"d1": "Time to get together and celebrate with your family."
+			},
+			"a3": {
+				"h1": "Partner",
+				"d1": "Love is in the air, but you’re in my heart."
+			},
+			"a4": {
+				"h1": "Pet",
+				"d1": "Play!?"
+			}
+		},
+		"food": {
+			"title": "What would you like to eat?",
+			"a1": {
+				"h1": "Khao Soi",
+				"d1": "Coconut milk curry noodles from northern Thailand."
+			},
+			"a2": {
+				"h1": "Tom Yum Goong",
+				"d1": "Hot and sour soup with prawns from central Thailand."
+			},
+			"a3": {
+				"h1": "Som Tum",
+				"d1": "Spicy papaya salad from northeastern Thailand."
+			},
+			"a4": {
+				"h1": "Gaeng Tai Pla",
+				"d1": "Spicy fermented fish entrails curry from southern Thailand."
+			}
+		},
+		"activity": {
+			"title": "How would you like to spend your free time?",
+			"a1": {
+				"h1": "Chill",
+				"d1": "I don't want to do anything. I just want to rest."
+			},
+			"a2": {
+				"h1": "Play Games",
+				"d1": "I won't quit until I level up!"
+			},
+			"a3": {
+				"h1": "Clean",
+				"d1": "t's time to do some house cleaning."
+			},
+			"a4": {
+				"h1": "Work",
+				"d1": "Gotta finish this up ASAP!"
+			}
+		}
+	},
+	"pagoda": {
+		"pagoda_page": {
+			"title": "Here’s your pagoda",
+			"next": "Next",
+			"sand_pagoda": "Sand Pagoda",
+			"sand_pagoda_details": "Sand pagoda is like your destiny, it’s shaped by your actions.",
+			"stone_pagoda": "Stone pagoda",
+			"stone_pagoda_details": "Even solid rocks can erode over time. Always be prepared for what life throws your way.",
+			"sand_castle_pagoda": "Ice Pagoda",
+			"sand_castle_pagoda_details": "Ice can melt. Nothing is ever permanent and that's the law of the universe."
+		},
+		"flag_page": {
+			"title": "Select your flag",
+			"next": "Next"
+		},
+		"flower_page": {
+			"title": "Select your flower",
+			"next": "Next"
+		}
+	},
+	"result": {
+		"title": "Your pagoda for Songkran 2024",
+		"social": "Share your pagoda",
+		"save": "Save Image",
+		"done": "Done"
+	}
+}

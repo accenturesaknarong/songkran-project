@@ -1,0 +1,76 @@
+.title {
+  font-family: Poppins;
+  font-size: 48px;
+  font-weight: 700;
+  color: #000000;
+  background: #ffffff;
+}
+
+.share-text {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.image {
+  width: 593px;
+  height: 395px;
+  background: #D9D9D9;
+}
+
+
+.send-bless{
+  width: 593px; /* Fill width */
+  height: 63px; /* Fixed height */
+  border-radius: 16px; /* Rounded corners */
+  border: 1px solid #000000; /* Border properties */
+  margin-bottom: 10px; /* Gap between buttons */
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #000000;
+  background:#ffffff;
+}
+
+.button-container {
+  font-weight: bold;
+}
+
+.done-style {
+  color: white;
+  background-color:#E804FC;
+  width: 250px;
+}
+
+.saveimage-style {
+  width: 250px;
+  color: #E804FC;
+  border-color: 1px solid #E804FC;
+}
+
+.button {
+  width: 1140px;
+  height: 74px;
+  top: 888px;
+  left: 150px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button a {
+  margin-right: 24px;
+}
+
+.icon-social {
+  width: 64px;
+  height: 64px;
+  margin: 0 16px 48px 16px;
+}
+
+.custombutton{
+  margin: 0 12px 12px 12px;
+}

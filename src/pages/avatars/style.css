@@ -1,0 +1,57 @@
+.icon {
+  width: 100%;
+  height: auto;
+  > img {
+    width: 80%;
+    height: 80%;
+    border-radius: 50%;
+    background-color: #fef0ff;
+    border: 2px solid transparent;
+  }
+}
+
+.icon-select {
+  > img {
+    border: 6px solid #e804fc;
+  }
+}
+
+@keyframes bounce {
+  0% {
+    transform: scale(0);
+  }
+  30% {
+    transform: scale(1.2);
+  }
+  50% {
+    transform: scale(1);
+  }
+  80% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.bouncein {
+  animation-name: bounce;
+  animation-duration: 900ms;
+  animation-delay: var(--delay);
+  animation-fill-mode: backwards;
+  animation-timing-function: cubic-bezier(0.445, 0.05, 0.55, 0.95);
+}
+.show-767{
+  display: none;
+}
+.hide-767{
+  display: block;
+}
+@media screen and (max-width:767px){
+  .show-767{
+    display: block;
+  }
+  .hide-767{
+    display: none;
+  }
+}

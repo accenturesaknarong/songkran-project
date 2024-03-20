@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1710359647284" clover="3.2.0">
+  <project timestamp="1710359647285" name="All files">
+    <metrics statements="62" coveredstatements="28" conditionals="30" coveredconditionals="5" methods="29" coveredmethods="7" elements="121" coveredelements="40" complexity="0" loc="62" ncloc="62" packages="12" files="17" classes="17"/>
+    <package name="src">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="App.js" path="/Users/n.treerattanajutawat/Desktop/Project/songkran-frontend/src/App.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.button">
+      <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="1"/>
+      <file name="CustomButton.jsx" path="/Users/n.treerattanajutawat/Desktop/Project/songkran-frontend/src/components/button/CustomButton.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+      <file name="ModalButton.jsx" path="/Users/n.treerattanajutawat/Desktop/Project/songkran-frontend/src/components/button/ModalButton.jsx">
+        <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.card">
+      <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="CustomCard.jsx" path="/Users/n.treerattanajutawat/Desktop/Project/songkran-frontend/src/components/card/CustomCard.jsx">
+        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.conten-center">
+      <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="ContentCenter.jsx" path="/Users/n.treerattanajutawat/Desktop/Project/songkran-frontend/src/components/conten-center/ContentCenter.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.content-center">
+      <metrics statements="2" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="ContentCenter.jsx" path="/Users/n.treerattanajutawat/Desktop/Project/songkran-frontend/src/components/content-center/ContentCenter.jsx">
+        <metrics statements="2" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.header-title">
+      <metrics statements="5" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="HeaderTitle.jsx" path="/Users/n.treerattanajutawat/Desktop/Project/songkran-frontend/src/components/header-title/HeaderTitle.jsx">
+        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+      </file>
+      <file name="TextHeader.jsx" path="/Users/n.treerattanajutawat/Desktop/Project/songkran-frontend/src/components/header-title/TextHeader.jsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.icon-image">
+      <metrics statements="3" coveredstatements="0" conditionals="18" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="IconImage.jsx" path="/Users/n.treerattanajutawat/Desktop/Project/songkran-frontend/src/components/icon-image/IconImage.jsx">
+        <metrics statements="3" coveredstatements="0" conditionals="18" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.main-background">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="MainBackground.jsx" path="/Users/n.treerattanajutawat/Desktop/Project/songkran-frontend/src/components/main-background/MainBackground.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.context">
+      <metrics statements="8" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+      <file name="MainContext.js" path="/Users/n.treerattanajutawat/Desktop/Project/songkran-frontend/src/context/MainContext.js">
+        <metrics statements="8" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.main">
+      <metrics statements="28" coveredstatements="8" conditionals="2" coveredconditionals="0" methods="14" coveredmethods="2"/>
+      <file name="Home.jsx" path="/Users/n.treerattanajutawat/Desktop/Project/songkran-frontend/src/pages/main/Home.jsx">
+        <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+      </file>
+      <file name="Language.jsx" path="/Users/n.treerattanajutawat/Desktop/Project/songkran-frontend/src/pages/main/Language.jsx">
+        <metrics statements="11" coveredstatements="1" conditionals="2" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+      </file>
+      <file name="Main.jsx" path="/Users/n.treerattanajutawat/Desktop/Project/songkran-frontend/src/pages/main/Main.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+      </file>
+      <file name="Menu.jsx" path="/Users/n.treerattanajutawat/Desktop/Project/songkran-frontend/src/pages/main/Menu.jsx">
+        <metrics statements="10" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.playground">
+      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="Playground.jsx" path="/Users/n.treerattanajutawat/Desktop/Project/songkran-frontend/src/pages/playground/Playground.jsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.utils">
+      <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="common.js" path="/Users/n.treerattanajutawat/Desktop/Project/songkran-frontend/src/utils/common.js">
+        <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

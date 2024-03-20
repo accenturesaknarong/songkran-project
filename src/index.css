@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'NotoSansThai';
+  src: local("NotoSansThai"),
+  url("./assets/font/NotoSansThai/NotoSansThai-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: local("Poppins"),
+    url("./assets/font/Poppins/Poppins-Regular.ttf") format("truetype");
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* // Thai language */
+html:lang(th):root {
+  *{
+    font-family: "NotoSansThai";
+  }
+}
+
+/* // English language */
+html:lang(en):root {
+  *{
+    font-family: "Poppins";
+  }
+}
+
+.p-12-700 {
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.p-16-700 {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.p-24-700 {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.p-16-400 {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.pink-hex {
+  background: linear-gradient(268.7deg, #E804FC 0%, #2A66FF 100.85%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

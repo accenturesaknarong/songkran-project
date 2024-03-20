@@ -1,0 +1,14 @@
+.header {
+	font-size: 96px;
+	font-weight: 700;
+	color: black;
+	text-align: center;
+}
+
+.subtitle {
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 27px;
+	color: black;
+	text-align: center;
+}

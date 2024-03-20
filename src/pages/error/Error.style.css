@@ -1,0 +1,53 @@
+.er-container {
+    .ant-modal {
+        width: 80% !important;
+        max-width: 380px !important;
+    }
+
+    .ant-modal-content {
+        padding: 32px !important;
+    }
+
+    .errorpopup {
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+        align-items: center;
+        justify-content: center;
+
+        >div {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .head {
+            font-size: 18px;
+            font-weight: 900;
+            text-align: center;
+        }
+
+        .second {
+            font-size: 12px;
+            font-weight: 100;
+            text-align: center;
+        }
+    }
+
+    .warning-icon {
+        >svg {
+            width: 28px;
+            height: 28px;
+            fill: var(--purple)
+        }
+    }
+}
+
+.ant-modal-centered {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw !important;
+    height: 100vh !important;
+}

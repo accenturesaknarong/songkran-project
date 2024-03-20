@@ -1,0 +1,14 @@
+.bg-container-blur {
+    background-image: url('../../assets/images/bg-main.png');
+    background-color: lightgray;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.bg-container {
+    background-image: url('../../assets/images/bg-normal.png');
+    background-color: lightgray;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
